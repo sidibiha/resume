@@ -1,6 +1,9 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+
+
+title: "title2"
+description: "desc 2"
+
 
 # Build settings
 markdown: kramdown
@@ -10,13 +13,15 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Femalecodertocat"
-resume_title:                   "Web Developer"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "1 (877) 448-4820"
+
+resume_name:                    "name1"
+resume_title:                   "Web analyst"
+resume_contact_email:           "sidibiha@github.com"
+resume_contact_telephone:       "1 (877) 000-0000"
 resume_contact_address:         "San Francisco, CA"
 resume_header_contact_info: "San Francisco, CA | 1 (877) 448-4820 | services@github.com"
-resume_header_intro: "<p>Professional Web Developer with an interest in Open Source and Education</p>"
+resume_header_intro: "<p>Web Developer with an interest in Open Source and Education</p>"
+
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

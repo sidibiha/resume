@@ -1,9 +1,11 @@
 # Jobs
+
 # Web 
 - company: Git
   position: Web De
   duration: June, 2015 &mnt
   summary: Develop, maintain, an improvements to the user expeitHub.com.
+
 
 # Job Title
 - company: Conway Meats
@@ -17,3 +19,4 @@
   position: Intern - Web optimist
   duration:  May, 2013  &mdash; August, 2018
   summary: Worked on various user facing projects on GitHub.git
+
